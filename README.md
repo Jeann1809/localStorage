@@ -1,0 +1,2 @@
+# localStorage
+localStorage practica BIT
